@@ -6,4 +6,4 @@ scripts, and mini applications — all organized into separate directories for c
 ---
 
 ## 📁 Project Structure
-<pre><code>``` python-projects/ ├── calculator/ # CLI calculator project │ ├── calculator.py │ └── README.md ├── file-renamer/ # Tool to rename multiple files │ ├── renamer.py │ └── README.md ├── password-generator/ # Secure password generator │ ├── generator.py │ └── README.md ├── requirements.txt # (Optional) Shared dependencies └── README.md # Main documentation file ``` </code></pre>
+<pre><code>``` python-projects/ ├── calculator/ # CLI calculator project │ ├── calculator.py # Main Python script │ └── README.md # Project-specific documentation └── README.md # Root README for all Python projects ``` </code></pre>
