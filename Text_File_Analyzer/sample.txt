@@ -1,0 +1,6 @@
+The Text File Analyzer is a Python-based tool designed to extract
+and summarize essential statistics from any .txt file.
+It performs a comprehensive analysis by counting the total number of lines, words,
+and characters, and also generates a frequency report of each word in the file.
+This project emphasizes core Python skills such as file handling, string manipulation,
+dictionaries, and basic error handling. 
