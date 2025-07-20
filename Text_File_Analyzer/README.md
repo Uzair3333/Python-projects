@@ -30,8 +30,7 @@ A Python project that reads and analyzes the contents of a `.txt` file to genera
 
 ```plaintext
 Text_File_Analyzer/
-├── text_analyzer.py         # Main script
-├── Text analyzer/
-│   ├── sample.txt           # Input text file
-│   └── report.txt           # Output analysis report
-└── README.md                # Project documentation
+├── main.py     # Main script
+│── sample.txt           # Input text file
+│── report.txt           # Output analysis report
+└── README.md            # Project documentation
