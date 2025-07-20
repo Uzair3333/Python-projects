@@ -52,7 +52,7 @@ def main():
     for word, freq in sorted(word_frequencies.items()):
         print(f"'{word}' appears '{freq}' time(s)")
 
-    with open("Text analyzer/report.txt", 'w') as file:
+    with open("report.txt", 'w') as file:
         file.write(f"Total number of lines: {lines}")
         file.write(f"\nTotal number of words: {words}")
         file.write(f"\nTotal number of characters: {characters}\n")
