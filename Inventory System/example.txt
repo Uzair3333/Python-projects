@@ -1,0 +1,30 @@
+# Example 1: Adding Products
+Menu:
+1. View All Products
+2. Add New Product
+3. Search Product by Name
+4. Calculate Total Inventory Value
+5. Exit
+Enter your choice (1-5): 2
+Enter product name: Apple
+Enter product price: 1.5
+Enter product quantity: 20
+Product added successfully.
+
+# Example 2: Viewing Products
+Enter your choice (1-5): 1
+--- Product List ---
+Apple costs $1.5 and 20 items are in stock.
+
+# Example 3: Searching Products
+Enter your choice (1-5): 3
+Enter product name to search: apple
+Apple costs $1.5 and 20 in stock.
+
+# Example 4: Calculating Inventory Value
+Enter your choice (1-5): 4
+Total inventory value: $30.00
+
+# Example 5: Exit
+Enter your choice (1-5): 5
+Goodbye!

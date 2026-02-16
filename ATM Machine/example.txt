@@ -1,0 +1,27 @@
+
+---
+
+### 🏦 **Simple_ATM_Machine/examples.txt**
+```text
+==============================
+🏦 SIMPLE ATM MACHINE
+==============================
+1️⃣  Check Balance
+2️⃣  Deposit Money
+3️⃣  Withdraw Money
+4️⃣  Exit
+
+💡 Choose an option (1–4): 2
+Enter amount to deposit: 200
+✅ Deposited $200.00 successfully!
+
+💡 Choose an option (1–4): 3
+Enter amount to withdraw: 50
+💸 Withdrawn $50.00 successfully!
+
+💡 Choose an option (1–4): 1
+💰 Current Balance: $150.00
+
+💡 Choose an option (1–4): 4
+👋 Thank you for using Python ATM. Goodbye!
+==============================
