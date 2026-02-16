@@ -1,0 +1,17 @@
+
+---
+
+### 🕹️ **Number_Guessing_Game/examples.txt**
+```text
+==============================
+🎮 NUMBER GUESSING GAME
+==============================
+I'm thinking of a number between 1 and 10...
+👉 Enter your guess: 5
+⬆️ Too high! Try again.
+👉 Enter your guess: 2
+⬇️ Too low! Try again.
+👉 Enter your guess: 3
+🎉 Correct! You guessed it right!
+🏁 Total attempts: 3
+==============================

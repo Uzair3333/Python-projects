@@ -1,0 +1,31 @@
+# Example Run
+
+🧾        TO-DO LIST MENU
+1️⃣  Add Task
+2️⃣  View Tasks
+3️⃣  Mark Complete
+4️⃣  Delete Task
+5️⃣  Exit
+
+👉 Choose one of the above options: 1
+Enter new task: Buy groceries
+✅ Task 'Buy groceries' added successfully!
+
+🔁 Press Enter to return to menu...
+
+🧾        TO-DO LIST MENU
+👉 Choose one of the above options: 2
+
+🗂️  Your Tasks:
+  1. Buy groceries [❌ Not Done]
+
+👉 Choose one of the above options: 3
+Enter the exact task name to mark complete: Buy groceries
+🎉 Task 'Buy groceries' marked as complete!
+
+👉 Choose one of the above options: 5
+👋 Exiting To-Do List. Have a productive day!
+
+# Notes
+- All tasks are stored in memory only (not saved to file).  
+- Exiting the app clears the list.

@@ -1,0 +1,18 @@
+========================================
+🧮 USER INPUT VALIDATION TOOL
+========================================
+
+=== 🧑 USERNAME VALIDATION ===
+Enter username: John Doe
+✅ Valid Username!
+
+=== 📧 EMAIL VALIDATION ===
+Enter Email: john.doe@example.com
+✅ Valid Email Address!
+
+=== 🎂 AGE VALIDATION ===
+Enter your age: 28
+✅ Valid Age!
+
+🎉 Validation Complete — Thanks for using the tool!
+========================================

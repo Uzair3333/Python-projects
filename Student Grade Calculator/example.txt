@@ -1,0 +1,29 @@
+# Example Run
+
+🎓 Welcome to the Student Grade Calculator 🎓
+
+Enter the number of subjects: 3
+
+📘 Enter your marks (0–100):
+  ➤ Subject #1: 85
+  ➤ Subject #2: 92
+  ➤ Subject #3: 78
+
+✅ Marks recorded successfully!
+
+
+📊 ---- RESULT SUMMARY ---- 📊
+📚 Total Subjects : 3
+🧾 Marks Entered  : [85, 92, 78]
+🔢 Total Marks    : 255
+📈 Average Marks  : 85.00%
+🏅 Grade Awarded  : B
+💬 Remark         : 💪 Very Good! Keep it up.
+-----------------------------
+🎉 Congratulations on completing your exam analysis!
+
+
+# Notes
+- Enter a positive number for subjects.  
+- Marks must be between 0 and 100.  
+- Handles invalid or non-numeric inputs automatically.

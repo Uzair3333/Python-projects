@@ -1,0 +1,16 @@
+🎓 STUDENT DATABASE MANAGER
+----------------------------------------
+1️⃣  Add New Student
+2️⃣  View All Students
+3️⃣  Find Top Scorer
+4️⃣  Search by Subject
+5️⃣  Remove a Student
+6️⃣  Exit Program
+----------------------------------------
+👉 Enter your choice: 2
+
+📋 Student Records:
+----------------------------------------
+👤 Uzair      | Age: 18 | Subject: CS        | Score: 90
+👤 Abdullah   | Age: 23 | Subject: Physics   | Score: 95
+----------------------------------------

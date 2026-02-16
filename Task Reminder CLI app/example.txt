@@ -1,0 +1,42 @@
+# Example Run
+
+📅        TASK REMINDER APP
+1️⃣  Add Task
+2️⃣  View All Tasks
+3️⃣  Delete Task
+4️⃣  Mark Task as Completed
+5️⃣  Exit
+
+👉 Choose one of the above options (1–5): 1
+
+📝 Add a New Task
+Enter Name of the Task: Finish report
+Enter Deadline (e.g., 30-10-2025): 28-10-2025
+Enter Status (e.g., Pending/In Progress): Pending
+
+✅ Task 'Finish report' added successfully!
+
+🔁 Press Enter to return to menu...
+
+📅        TASK REMINDER APP
+👉 Choose one of the above options (1–5): 2
+
+📋 Your Tasks:
+------------------------------------------------------------
+1. 🧩 Name: Finish report
+   ⏰ Deadline: 28-10-2025
+   📌 Status: Pending
+------------------------------------------------------------
+
+👉 Choose one of the above options (1–5): 4
+Enter Name of the Task to Mark as Done: Finish report
+
+🎉 Task 'Finish report' marked as completed!
+
+👉 Choose one of the above options (1–5): 5
+👋 Exiting Task Reminder App. Have a productive day!
+
+# Notes
+- All tasks are temporary and cleared when the program exits.  
+- Input task names carefully; deletion and completion use exact names (case-insensitive).  
+- Works entirely in the terminal — no external dependencies.

@@ -1,0 +1,42 @@
+
+---
+
+### 📘 **examples.txt**
+```text
+----------------------------------------
+📖        LIBRARY BOOK TRACKER
+----------------------------------------
+1️⃣  Add New Book
+2️⃣  View All Books
+3️⃣  Search Book by Title
+4️⃣  Borrow a Book
+5️⃣  Return a Book
+6️⃣  Remove a Book
+7️⃣  Exit Program
+----------------------------------------
+
+👉 Choose one of the above options: 1
+Enter Book Title: The Great Gatsby
+Enter Author Name: F. Scott Fitzgerald
+Enter Year of Publication: 1925
+✅ Book 'The Great Gatsby' added successfully!
+
+👉 Choose one of the above options: 2
+📘 '1984' by George Orwell (1949) — ✅ Available
+📘 'The Great Gatsby' by F. Scott Fitzgerald (1925) — ✅ Available
+
+👉 Choose one of the above options: 4
+Enter the title of the book to borrow: the great gatsby
+🎉 You borrowed 'The Great Gatsby'. Enjoy reading!
+
+👉 Choose one of the above options: 5
+Enter the title of the book to return: the great gatsby
+✅ 'The Great Gatsby' has been returned successfully!
+
+👉 Choose one of the above options: 6
+Enter the title of the book to remove: 1984
+🗑️  Book '1984' removed successfully.
+
+👉 Choose one of the above options: 7
+👋 Thank you for using Library Book Tracker!
+----------------------------------------

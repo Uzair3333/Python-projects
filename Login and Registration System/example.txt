@@ -1,0 +1,23 @@
+
+### 🔐 **examples.txt**
+```text
+==============================
+🔐 LOGIN & REGISTRATION SYSTEM
+==============================
+1️⃣ Register
+2️⃣ Login
+3️⃣ Exit
+------------------------------
+👉 Enter your choice (1-3): 1
+Enter a new username: uzair
+Enter a new password: 12345
+✅ Registration successful!
+
+👉 Enter your choice (1-3): 2
+Enter username: uzair
+Enter password: 12345
+🎉 Login successful! Welcome back!
+
+👉 Enter your choice (1-3): 3
+👋 Goodbye! Have a great day!
+==============================

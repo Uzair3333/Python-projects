@@ -1,0 +1,21 @@
+
+### 🧩 **examples.txt**
+```text
+==============================
+🧩 QUIZ GAME (PAKISTAN EDITION)
+==============================
+1. What is the national language of Pakistan?
+A) Urdu
+B) English
+C) Punjabi
+D) Sindhi
+👉 Enter your choice (A/B/C/D): A
+✅ Correct Answer!
+
+...
+
+🏁 Your total score: 8 / 10
+✅ Good job!
+🔁 Play again? (Yes/No): no
+👋 Goodbye! Thanks for playing!
+==============================

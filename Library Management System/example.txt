@@ -1,0 +1,19 @@
+
+---
+
+### 💡 **examples.txt**
+```text
+# Example 1: Add a Book
+Book("The Alchemist", "Paulo Coelho", "9780061122415").append_book()
+
+# Example 2: Add a Member
+Member("Uzair", "M001", "+923123456789").append_member()
+
+# Example 3: Borrow a Book
+Library.borrow_book("M001", "9780061122415")
+
+# Example 4: Return a Book
+Library.return_book("M001", "9780061122415")
+
+# Example 5: View Transaction History
+Library.view_transactions()

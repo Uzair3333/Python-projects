@@ -1,0 +1,23 @@
+# Example Run
+
+🎓 Student Performance Report
+----------------------------------------
+Alice      | Marks: 91  | Grade: A | ✅ Passed
+Aziz       | Marks: 78  | Grade: B | ✅ Passed
+Devil      | Marks: 65  | Grade: B | ✅ Passed
+Habib      | Marks: 56  | Grade: B | ✅ Passed
+Bob        | Marks: 42  | Grade: C | ❌ Failed
+----------------------------------------
+📊 Class Average Marks: 66.40
+🏆 Top Performer: Alice (91 marks)
+📘 Total Passed Students: 4/5
+----------------------------------------
+
+# Notes
+- The dataset is hardcoded for demonstration, but can be extended easily.  
+- Modify the `students` list to analyze different sets of students.  
+- Uses pure functional techniques — no loops for processing.  
+- Grades:  
+  - A → 80–100  
+  - B → 60–79  
+  - C → Below 60

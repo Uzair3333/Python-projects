@@ -1,0 +1,17 @@
+
+### ✊ **examples.txt**
+```text
+==============================
+✊ ROCK, PAPER, SCISSORS GAME
+==============================
+1️⃣ Rock
+2️⃣ Paper
+3️⃣ Scissor
+👉 Enter your choice (1-3): 2
+🧍 You chose: Paper
+💻 Computer chose: Rock
+🏆 You Win!
+
+🔁 Play again? (Yes/No): no
+👋 Goodbye! Thanks for playing!
+==============================
