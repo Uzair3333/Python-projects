@@ -1,64 +1,30 @@
 # 🐍 Python Projects Collection
 
-Welcome to my **Python Projects Collection**! This repository is a curated set of Python-based tools, scripts, and mini applications — all organized into separate directories for clarity and modularity.
-
----
+Welcome to my **Python Projects Collection**!  
+This repository contains a curated set of Python tools, scripts, and mini applications that I've built — all organized into separate project folders for clarity and easy navigation.
 
 ## 📁 Project Structure
 
-python-projects/
-├── calculator/                 # CLI calculator project  
-│   ├── calculator.py           # Main Python script  
-│   └── README.md               # Project-specific documentation  
-│  
-├── library-management-system/  # OOP-based Library Management System  
-│   ├── main.py                 # Test script to demonstrate functionality  
-│   ├── book.py                 # Book class  
-│   ├── member.py               # Member class  
-│   ├── library.py              # Library class (optional extension)  
-│   ├── books.csv               # Books data  
-│   ├── members.csv             # Members data  
-│   ├── transactions.csv        # Transaction logs  
-│   └── README.md               # Project documentation  
-│  
-└── README.md                   # Root README for all Python projects
+Each project is kept in its own folder with its own purpose and functionality. Here are some of the projects included:
 
----
+- **ATM Machine** – Simulates basic ATM operations.
+- **Bank Account Management System** – A simple banking system.
+- **Inventory System** – Track and manage inventory items.
+- **Library Management System** – OOP project with CSV storage.
+- **Multi-Functional Calculator** – CLI calculator with operations.
+- **Rock, Paper, Scissors Game** – Classic game implementation.
+- **Task Reminder CLI app** – Simple CLI tool to set reminders.
+- **To-Do CLI** – Basic to-do list manager.
+- **Text File Analyzer** – Analyze text files for stats.
+- ...and more!
 
-## 📦 Included Projects
+*(Complete list of projects is in the repository directory)*
 
-### 1. 📚 Library Management System
+## 📌 How to Use
 
-A beginner-to-intermediate level OOP project that simulates a real-world library.  
-It includes:
+To try any of the projects:
 
-- Book registration and CSV storage  
-- Member management  
-- Borrowing and returning of books  
-- All activity tracked through a transaction log  
+1. Clone the repository:
 
-You can find:
-- Class-based structure in `book.py`, `member.py`, `library.py`  
-- Data saved and managed in `books.csv`, `members.csv`, `transactions.csv`  
-- A demo script in `main.py` to test and interact with the project  
-
-🔗 [Go to Project](./library-management-system)
-
----
-
-### 2. 🧮 CLI Calculator
-
-A simple command-line calculator using basic Python functions for arithmetic operations like add, subtract, multiply, and divide.
-
-🔗 [Go to Project](./calculator)
-
----
-
-## 🛠 How to Use
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/python-projects.git
-cd python-projects/<project-folder>
-python main.py
+   ```bash
+   git clone https://github.com/Uzair3333/Python-projects.git
