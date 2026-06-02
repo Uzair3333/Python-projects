@@ -24,4 +24,5 @@ Designed to demonstrate **string manipulation**, **input validation**, and **err
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Uzair3333/Python-projects.git
-   cd Python-projects/User_Input_Validator
+   cd Python-projects/Input Validator
+   ```
