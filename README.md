@@ -16,9 +16,14 @@ Each project is kept in its own folder with its own purpose and functionality. H
 - **Task Reminder CLI app** – Simple CLI tool to set reminders.
 - **To-Do CLI** – Basic to-do list manager.
 - **Text File Analyzer** – Analyze text files for stats.
-- ...and more!
-
-*(Complete list of projects is in the repository directory)*
+- **Input Validator** - Check Vaidaty of Username, Email Address and Age.
+- **Library Book Tracker** - Trackes Book History.
+- **Login and Registration System** - Simple Account Management System.
+- **Number Guessing Game** - Simple game for guessing numbers.
+- **Quiz Game** - Simple Quiz Game.
+- **Student Database Manager** - Simple Student Database Management System.
+- **Student Grade Calculator** - Grade Calculation Tool.
+- **Student Performance Analyzer** - Analyzes Student Performance on the base of Marks and Grades.
 
 ## 📌 How to Use
 
@@ -27,4 +32,4 @@ To try any of the projects:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Uzair3333/Python-projects.git
+  [ git clone https://github.com/Uzair3333/Python-projects.git](https://github.com/Uzair3333/Python-projects.git)
