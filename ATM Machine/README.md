@@ -23,4 +23,4 @@ A text-based ATM simulator built in Python that lets users check balance, deposi
 
 ## ▶️ How to Run
 ```bash
-python atm_machine.py
+python main.py
