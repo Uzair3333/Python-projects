@@ -25,6 +25,24 @@ Each project is kept in its own folder with its own purpose and functionality. H
 - **Student Grade Calculator** - Grade Calculation Tool.
 - **Student Performance Analyzer** - Analyzes Student Performance on the base of Marks and Grades.
 
+## 🖥️ GUI Apps
+
+These projects use **Tkinter** for the desktop interface. They are available locally but have **not been uploaded to GitHub** yet.
+
+- **ToDo App** – A graphical to-do list manager with add, complete, and delete actions. Tasks are saved to a JSON file and persist between sessions. Includes a packaged Windows executable and installer.
+- **File Search Tool** – Search for files within a directory by keyword. Enter a folder path and a search term, then view matching results in a scrollable list.
+- **Password Generator** – Generate secure random passwords with configurable length and options for numbers, symbols, and uppercase letters.
+- **Greeting Bot** – Enter your first and last name to receive a personalized welcome message.
+- **The Text Editor** – A simple text editor with open, save, and exit options via a menu bar. Create and edit `.txt` files in a clean window.
+
+To run any of these locally, navigate to the project folder and run:
+
+```bash
+python main.py
+```
+
+For the ToDo App, you can also run `python gui.py` or use the pre-built executable in `ToDo-App/dist/gui.exe`.
+
 ## 📌 How to Use
 
 To try any of the projects:

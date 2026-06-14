@@ -1,0 +1,42 @@
+[
+    {
+        "task_id": 1,
+        "task": "Walk",
+        "completed": false
+    },
+    {
+        "task_id": 7,
+        "task": "Talk",
+        "completed": true
+    },
+    {
+        "task_id": 5,
+        "task": "Run",
+        "completed": false
+    },
+    {
+        "task_id": 8,
+        "task": "Study Python",
+        "completed": false
+    },
+    {
+        "task_id": 9,
+        "task": "Excercise",
+        "completed": false
+    },
+    {
+        "task_id": 10,
+        "task": "Exam",
+        "completed": true
+    },
+    {
+        "task_id": 11,
+        "task": "watch movie",
+        "completed": true
+    },
+    {
+        "task_id": 12,
+        "task": "abc",
+        "completed": false
+    }
+]
